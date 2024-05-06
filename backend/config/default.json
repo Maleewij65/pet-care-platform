@@ -1,0 +1,5 @@
+{
+  "jwtSecret": "7cd54ff419cc1234e2d3872e6887abf6c0e0e2bfb813486ca9e2a059d0e9f47c",
+  "mongoURL": "mongodb+srv://swijerathne65:wPlNr6r4kqVZp8pG@cluster0.ogov34k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "mongoURLLocal": "mongodb+srv://ruwan:w0ex0AYUXTPlBfzy@testcluster.xescmzk.mongodb.net/?retryWrites=true&w=majority&appName=testcluster"
+}
